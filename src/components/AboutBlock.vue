@@ -36,7 +36,7 @@
               <table class="about-me-table table borderless">
                 <tr>
                   <th>Name:</th>
-                  <td>Suyash Omabale</td>
+                  <td>Suyash Ombale</td>
                 </tr>
                 <tr>
                   <th>Date of Birth:</th>
