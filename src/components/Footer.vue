@@ -1,6 +1,6 @@
 <template>
   <div class="footer container-fluid">
-    <span>Developed By Suyash Omabale | &#169; 2023 All rights reserved.</span>
+    <span>Developed By Suyash Ombale | &#169; 2023 All rights reserved.</span>
   </div>
 </template>
 
