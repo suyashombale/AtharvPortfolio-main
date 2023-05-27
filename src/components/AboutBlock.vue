@@ -61,7 +61,7 @@
               </table>
             </div>
             <div class="col-sm-12">
-              <a href="https://drive.google.com/file/d/1JfW1My23_Q57igs1UrKJ9177QjjTMjUS/view?usp=share_link" target="_blank">
+              <a href="https://drive.google.com/file/d/18P7AJGGXg9CrvEiGt34SZNZyTckx9sLj/view?usp=sharing" target="_blank">
                 <button class="cv-btn" herf="https://drive.google.com/file/d/1JfW1My23_Q57igs1UrKJ9177QjjTMjUS/view?usp=share_link" data-aos="flip-down">
                   Download Resume
                 </button></a
