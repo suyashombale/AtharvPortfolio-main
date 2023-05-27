@@ -276,10 +276,6 @@ export default {
           icon: require("../assets/mysql.png"),
         },
         {
-          name: "Bootstrap",
-          icon: require("../assets/bootstrap.png"),
-        },
-        {
           name: "Autodesk",
           icon: require("../assets/proimg/autodesk.png"),
         },
